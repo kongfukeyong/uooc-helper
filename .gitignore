@@ -1,0 +1,9 @@
+config.json
+data/
+runtime/
+ffmpeg/
+drivers/
+__pycache__/
+*.pyc
+*.zip
+*.log
